@@ -1,14 +1,18 @@
-# 🌍 AI Travel Planner
+# 🌍 Trippy- AI Travel Planner
 
 An intelligent travel planning web application that helps you plan budget-friendly trips with personalized recommendations for flights, hotels, and itineraries using AI.
 ----
 # ScreenShort
 
+
+![IMG-20250610-WA0007](https://github.com/user-attachments/assets/32443a0c-1c6a-41e0-b727-2ce70216df02)
 ![IMG-20250610-WA0009](https://github.com/user-attachments/assets/9020cc17-0017-480c-9ab6-d68fda82215e)
+
+<h2 align="center">Landing Page</h2>
 ![IMG-20250610-WA0010](https://github.com/user-attachments/assets/0cbb7796-cb23-43c6-8b26-31d146afee36)
 ![IMG-20250610-WA0011](https://github.com/user-attachments/assets/97e3cd80-8d46-455f-a192-4c377070eba9)
-![IMG-20250610-WA0008](https://github.com/user-attachments/assets/3bf61d72-13a8-424f-93e5-e286f3578c4e)
-![IMG-20250610-WA0007](https://github.com/user-attachments/assets/32443a0c-1c6a-41e0-b727-2ce70216df02)
+<h2 align="center">Landing Page</h2>
+
 ![IMG-20250610-WA0012](https://github.com/user-attachments/assets/18e22225-096a-4434-ae0f-b2209a86fbf4)
 
 ## ✨ Features
