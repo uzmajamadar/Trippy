@@ -1,4 +1,4 @@
-# 🌍 Trippy- AI Travel Planner
+# 🌍 Trippy- AI Travel Buddy
 
 An intelligent travel planning web application that helps you plan budget-friendly trips with personalized recommendations for flights, hotels, and itineraries using AI.
 ----
