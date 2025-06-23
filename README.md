@@ -9,11 +9,15 @@ An intelligent travel planning web application that helps you plan budget-friend
 ![IMG-20250610-WA0009](https://github.com/user-attachments/assets/9020cc17-0017-480c-9ab6-d68fda82215e)
 
 <h2 align="center">Landing Page</h2>
+
 ![IMG-20250610-WA0010](https://github.com/user-attachments/assets/0cbb7796-cb23-43c6-8b26-31d146afee36)
 ![IMG-20250610-WA0011](https://github.com/user-attachments/assets/97e3cd80-8d46-455f-a192-4c377070eba9)
-<h2 align="center">Landing Page</h2>
+
+<h2 align="center">Your Personalized Itinerary</h2>
 
 ![IMG-20250610-WA0012](https://github.com/user-attachments/assets/18e22225-096a-4434-ae0f-b2209a86fbf4)
+
+<h2 align="center">Your Budget Bearkdown</h2>
 
 ## ✨ Features
 
